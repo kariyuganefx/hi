@@ -5,7 +5,7 @@ global.tagowner = process.env.TAG_OWNER // Put your number
 global.mods = process.env.MODS // Want some help?
 global.thumbt = fs.readFileSync('./KakashiMedia/kakashi.jpg')
 global.fsx = 999999999999
-global.contact = [['916380260672', 'Turbo Mods', true], ['918590508376', 'Ajmal', true] ]
+global.contact = ['918590508376', 'Ajmal', true]
 global.APIs = { // API Prefix
   // name: 'https://website'
   turboapis: 'https://turboapis.herokuapp.com',
