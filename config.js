@@ -1,8 +1,8 @@
 let fs = require('fs')
-global.botnamecon = process.env.BOT_NAME
-global.owner = process.env.OWNER // Put your number to /src/owner.json
-global.tagowner = process.env.TAG_OWNER // Put your number
-global.mods = process.env.MODS // Want some help?
+global.botnamecon = '𝙂𝞗𝞙𝙐 𝞛𝘿'
+global.owner = ['918590508376'] // Put your number to /src/owner.json
+global.tagowner = ['918590508376'] // Put your number
+global.mods = ['918590508376'] // Want some help?
 global.thumbt = fs.readFileSync('./KakashiMedia/kakashi.jpg')
 global.fsx = 999999999999
 global.contact = ['918590508376', 'Ajmal', true]
@@ -38,14 +38,14 @@ global.APIKeys = { // APIKey Here
   'https://leyscoders-api.herokuapp.com': 'dappakntlll'
 }
 
-global.linkyt = process.env.YT_LINK
-global.WM = process.env.WATER_MARK
-global.linkgc = process.env.GROUP_LINK
-global.linkig = process.env.INSTA_LINK
+global.linkyt = 'instagram.com/__ajfx'
+global.WM = '𝙂𝞗𝞙𝙐 𝞛𝘿 𝞑𝙔 𝞓𝙅𝞛𝞓𝙇-𝞦𝟬'
+global.linkgc = 'instagram.com/__ajfx'
+global.linkig = 'instagram.com/__ajfx'
 global.deslink = ''
 global.logo = 'https://telegra.ph/file/1665521d176fbf172d735.jpg'
-global.titlink = process.env.TITLE_LINK
-global.bodlink = process.env.BODY_LINK
+global.titlink = 'instagram.com/__ajfx'
+global.bodlink = 'instagram.com/__ajfx'
 global.wait = 'Pʟᴇᴀsᴇ Wᴀɪᴛ A Mɪɴᴜᴛᴇ ...'
 global.eror = 'Error Please Report To Developers'
 
@@ -55,7 +55,7 @@ global.url = global.linkgc
 
 //============= callButtons ============//
 global.callname = '𝒄𝒂𝒍𝒍 𝒐𝒘𝒏𝒆𝒓'
-global.callnumber = process.env.CALL_OWNER
+global.callnumber = '918590508376'
 
 //========== Tampilan Bot =============//
 global.sa = '╭─'
